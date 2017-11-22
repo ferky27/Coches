@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/perfil"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add"
+        android:title="@string/add_coche"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_out"
+        android:title="@string/cerrar_sesion"
+        app:showAsAction="always">
+</item>
+
+</menu>
